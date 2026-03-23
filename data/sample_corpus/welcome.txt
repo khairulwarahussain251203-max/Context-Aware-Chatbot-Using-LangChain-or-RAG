@@ -1,0 +1,5 @@
+Welcome to the knowledge base.
+
+This chatbot uses RAG: it retrieves relevant passages from this corpus and uses them to answer your questions.
+
+Context memory is enabled: you can ask follow-up questions and the chat history is kept for the session.
